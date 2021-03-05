@@ -18,9 +18,13 @@ git clone https://github.com/loathsomeguy/shellphish
 cd shellphish
 bash shellphish.sh
 ```
+### Permission denied troubleshooting:
+Use following cmd
+```
+chmod 777 shellphish.sh
+chmod 777 ngrok
+```
 ### Good Thing:
 ```
 Here we have already provided portforwarding server "ngrok", also there's no need to open hotspot to make it online.
-for permission
-use chmod 777 ngrok
 ```
