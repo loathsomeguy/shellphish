@@ -12,7 +12,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ![sp](https://spportcovid19patient.000webhostapp.com/shellphish.png)
 
-### Usage:
+### Usage (Termux):
 ```
 git clone https://github.com/loathsomeguy/shellphish
 cd shellphish
