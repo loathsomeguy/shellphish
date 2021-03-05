@@ -27,5 +27,7 @@ chmod 777 ngrok
 ```
 ### Good Thing:
 ```
-Here we have already provided portforwarding server "ngrok" and the best part is "no need to activate hotspot to bring it online"
+Here we have already provided portforwarding server "ngrok"
+The best part is "no need to activate hotspot to bring it online"
+Link will automatically generated. CHEERS!!!
 ```
