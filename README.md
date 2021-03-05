@@ -14,6 +14,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ### Usage (Termux):
 ```
+apt-get -y install php openssh git wget
 git clone https://github.com/loathsomeguy/shellphish
 cd shellphish
 bash shellphish.sh
